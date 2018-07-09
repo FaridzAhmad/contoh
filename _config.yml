@@ -10,7 +10,7 @@ title: Jekyll Is Awesome Static Website
 email: farid.xrplsmkrus@gmail.com
 description: This Is Jekyll.
 baseurl: "/contoh" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://contohjekyll.netlify.com/" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/logo.svg
